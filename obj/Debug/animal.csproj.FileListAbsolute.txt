@@ -1,0 +1,7 @@
+D:\18.11.2250\Polymorphism\animal\animal\obj\Debug\animal.csprojAssemblyReference.cache
+D:\18.11.2250\Polymorphism\animal\animal\obj\Debug\animal.csproj.CoreCompileInputs.cache
+D:\18.11.2250\Polymorphism\animal\animal\bin\Debug\animal.exe.config
+D:\18.11.2250\Polymorphism\animal\animal\bin\Debug\animal.exe
+D:\18.11.2250\Polymorphism\animal\animal\bin\Debug\animal.pdb
+D:\18.11.2250\Polymorphism\animal\animal\obj\Debug\animal.exe
+D:\18.11.2250\Polymorphism\animal\animal\obj\Debug\animal.pdb
